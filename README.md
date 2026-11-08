@@ -1,6 +1,6 @@
 # Rspack + Yarn PnP global cache: a rebuilt package module can't resolve its bare imports
 
-Issue: (link once filed)
+Issue: https://github.com/web-infra-dev/rspack/issues/16514
 
 Yarn 4 PnP with the global cache (Yarn's default): packages live in `~/.yarn/berry/cache`, outside the project.
 
